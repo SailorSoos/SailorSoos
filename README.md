@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SailorSoos
-- 👀 I’m interested in all sports analytics, from small scale applications, to large scale datascraping and analysis. 
+- 👀 I’m interested in all sports analytics - datascraping, data visualisation, and technical analysis. 
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on something you're excited about!
 - 📫 You can reach me at peter.soosalu@gmail.com.
