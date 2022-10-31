@@ -1,4 +1,4 @@
-- 👋 Hi, I'm raised as Canadian, but live in New Zealand. 
+- 👋 Hi, I'm living in New Zealand, but haven't forgotten how to speak Canadian :) 
 - 👀 I’m interested in all sports analytics - datascraping, data visualisation, and technical analysis. 
 - 🌱 I’m currently learning Tensorflow.
 - 💞️ I’m interested in data structures, analysis, and the ml challenges that come from it! 
